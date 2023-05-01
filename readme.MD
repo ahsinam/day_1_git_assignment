@@ -18,4 +18,16 @@
 6. Difference between revert and reset? 
    In case of revert, a prior commits modifications are reverted in a fresh commit whereas, in case of rest, it modifies the staging area. 
 
- 
+Day 2
+
+2.a. Write the difference between fetch and pull command.
+   Pull Command fetch and download the content from the remote repository and immediately update the local repository whereas on the other hand pull just fetch the content from the remote repository without merging the content.
+
+2.b. How to handle merge conflicts?
+   The steps to handle the merge conflicts are:
+   1. Pull the latest changes
+   2. Idenfity the conflicts
+   3. Understand the changes
+   4. Resolve the conflicts
+   5. Test and Commit the changes
+   
